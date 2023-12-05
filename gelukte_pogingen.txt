@@ -1,0 +1,3 @@
+Day1: Haskell
+Day2: pen en papier
+Day3: Prolog

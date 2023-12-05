@@ -1,0 +1,3 @@
+Day1: Asm   reden: het verkrijgen van de input lukte al niet 
+Day2: Q#    reden: om in Q# aan de gang te gaan moet de input eerst geparsed worden met een host language (bv C#), in deze opdracht zou het correct parsen van input al 95% van het werk zijn
+ 
